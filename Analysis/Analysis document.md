@@ -67,4 +67,6 @@ In this chapter the non-functional requirements are described
 | NFR08 | CI/CD | The code needs to be deployed using a CI/CD | Maintainability | 
 
 ## 7. Event Storming
-[![](https://mermaid.ink/img/pako:eNqFkMFqwzAQRH9lUS8OOLSxS6EiBArtodBTc_VFlla2iGyF9bquCfn3ytiG5hSdxOybZWcuQgeDQgrrw6BrRQxf30UL8TmzS940BwImhx1wgH1JjwfwoQLXwuC4nhVNaLBlp3wHG9huD9GbJcexY2zgR3lnFMcFs_s_PCurJU8-7c1YEa6mQISaU-Aaoe-QFn1w3kOJ00kVmnjVpmjn6zsePU4ZwEZGPryYcmdtGnUKJ9wOznAtn86_t3S20Fa_PufZPTq_s1ukokFqlDOx4MvkLUQM0GAhZPwaRadCFO01cv156ujDuNi3kDamx1SonsNxbLWQTD2u0LtTFalmoa5_CpGVTQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNqFkMFqwzAQRH9lUS8OOLSxS6EiBArtodBTc_VFlla2iGyF9bquCfn3ytiG5hSdxOybZWcuQgeDQgrrw6BrRQxf30UL8TmzS940BwImhx1wgH1JjwfwoQLXwuC4nhVNaLBlp3wHG9huD9GbJcexY2zgR3lnFMcFs_s_PCurJU8-7c1YEa6mQISaU-Aaoe-QFn1w3kOJ00kVmnjVpmjn6zsePU4ZwEZGPryYcmdtGnUKJ9wOznAtn86_t3S20Fa_PufZPTq_s1ukokFqlDOx4MvkLUQM0GAhZPwaRadCFO01cv156ujDuNi3kDamx1SonsNxbLWQTD2u0LtTFalmoa5_CpGVTQ)
+To get an idea of what features the platform will need an event storming session is done
+
+[![](https://github.com/mlb-center/Documentation/blob/main/Analysis/img/EventStorm.PNG)
