@@ -33,3 +33,6 @@ In this section you can inspect the architecture diagram of the complete platfor
 ## 5. Main API Class Diagram
 
 ![](https://www.plantuml.com/plantuml/png/pPJRRi8m38Rl-nIvBD9uXGcsIMZQqD0A3v2bfekMGvSOJQZYtPU6GeA5kDnwWspN_lyl1pBpo1tkj2gAOYw4tHbyj0QTLGeScqxlsL1zjOqKHPxaNwll850XH-bH2ayaqeUZIigJq59zp5jP56-k1aVcO-qu6iCqjPRY2p0E2iMzPtGDhYiOwxOIL7rW5_GyI_eU3VXfGzCxD84DtCQ3ApqwQHe6cajrnuQi3KO_rjNdWh1cAvrU3VL9BjVhcvjQmymXBI614VfXgna_XsCa3rWvTx8o851QKyN2ACW7S7fpwSMX5zPVvhdt0d0DN5V0lJNzd2-bGUPZFY6TAyNtu9u00vulJtYn-5nVR_OF-rx_r8mX9kj8N5TEWRVo1VOZ00uUuBPSmF3FxqQpYUG5oZSnUttiEIGEcrPOhOFiWclm9GMeW6Emxp-Ux9iG4zA0AI2wbV5tQMjGHqy2UlkW_vuj7MnwdBj_m9Y1gNTQ_G80)
+
+In the diagram above you can see the structure of the main api (platform endpoint).
+The controllers are the endpoints of the api, they each have their own logic. The MlbApi interface is the third party provider that provides statistics. The ticketing api interface connects to the ticket api that I will build myself.
